@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Bristi Samadder
 - 👀 I’m interested in Web Development,Software Engineering
 - 🌱 I’m currently learning Btech in CSE
-- 📫 How to reach me ...
+- 📫 Email : bristisamadder197@gmail.com
+- 📞 Phone : 9153554996
+-     WP : 7063621988
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
